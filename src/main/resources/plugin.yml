@@ -1,0 +1,7 @@
+name: footprints
+version: '1.0-SNAPSHOT'
+main: com.hz6826.footprints.Footprints
+api-version: '1.20'
+prefix: [ Footprint ]
+authors: [ Oak Platinum ]
+website: https://modrinth.com/user/OakPlatinum
